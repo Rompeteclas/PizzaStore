@@ -111,11 +111,13 @@ ol {
   }
   .foo1 {
     order: 2;
+    padding-top: 35px;    
     padding-right: 42px;
   }
   
   .foo2 {
     order: 1; 
+    justify-content: center;
   }
   .foo2 ul{
     flex-direction:column;
